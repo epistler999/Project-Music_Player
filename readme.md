@@ -1,4 +1,4 @@
-# Music Player
+# Music Player Project
 
 In this project my target was to make Homepage and single playlist page for a Online Music PLayer website like Spotify using only HTML and CSS (can later use JS on it).
 
